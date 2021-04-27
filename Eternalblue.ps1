@@ -1,3 +1,5 @@
+#Tham khảo từ bạn bè
+#nguồn git gốc:https://github.com/EmpireProject/Empire/blob/master/data/module_source/exploitation/Exploit-EternalBlue.ps1
 function Myfun($Target)
 {
 #$Target=Read-Host
